@@ -1,4 +1,4 @@
-title: Simple C++ Template
+title: C++11多线程之std::lock
 plan:
 - title: C++ Snippet
   statement: statement.md
